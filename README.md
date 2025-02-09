@@ -1,1 +1,1 @@
-# advanced-firewall
+This project is a Python-based Advanced Firewall that filters and monitors network traffic based on custom rules. It allows users to define packet filtering policies, block malicious IPs, and prevent unauthorized access. The firewall supports deep packet inspection, logging, and real-time traffic analysis, making it a powerful tool for securing networks. Designed for flexibility, it can be integrated with existing security solutions or used as a standalone defense mechanism
